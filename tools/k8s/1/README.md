@@ -31,7 +31,8 @@
 - Secure 
 	- App security
 		- POD, namespace, node
-		- RBAC, IRSA
+		- RBAC (Role-Based Access Control)
+		- IRSA (Roles for Service Accounts)
 		- 
 	- DevOps
 		- Authorization
