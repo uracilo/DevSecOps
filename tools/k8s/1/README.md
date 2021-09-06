@@ -58,12 +58,42 @@
 	- HPA (Horizontal Pod Autoscaler)
 	- Cluster autoscaler
 	- Cluster Overprovisioning
+- Expose service
+	- Go over services
+		- nodeport 
+		- loadbalancer
+		- clusterIP 
+	- Ingress
+		- One load balancer 
+			- traefic
+			- nginx
+			- ALB ingress controller
 
+- Kubernetes for containerized app? 
+	- ECS
+	- Docker swarm
+	- Apache mesos
 
+### Kubernetes best practices
 
-	
-
-
-
+- namespace
+	- fisical cluster 
+	- naming 
+	- Fisical separation
+	-   
+- resource limit
+ 	- resources
+- Readines liveness probess
+	- Readiness (warmup - check ready)
+	- Liveness (Pod response for CPU limit)
+- security
+- Day 2 operations
+	- Controls
+	- Lifecycle 
+		- rolling updates
+		- app termination graceful 
+	- Incident Response 
+		- Idetify isolate
+		- PenTesting 
 
 

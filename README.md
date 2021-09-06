@@ -18,6 +18,13 @@ ________
 - Confidenciality
 - Integrity
 - Availability
+- Authorization
+- Scan vulnerabilities
+	- Repository
+	- Code container
+	- libraries
+	- sql injection
+	- 
 ________
 
 - To moves rapid pace
