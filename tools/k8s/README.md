@@ -1,15 +1,16 @@
-# k8s 
+# K8s
 
-## Firsts components 
+
+<a href="# k8s " target="_blank">## Firsts components </a>
+
 - Docker 
 - Deployment
 - Replica Set
 - Pods
 - Kubectl run nginx
 
-https://github.com/uracilo/DevSecOps/tree/master/tools/k8s/1
+<a href="https://github.com/uracilo/DevSecOps/tree/master/tools/k8s/1" target="_blank">## Second components</a>
 
-## Second components
 - *HPA* 
 - *Ingress*
 - *GKE Google Kubernetes Engine*
@@ -18,50 +19,44 @@ https://github.com/uracilo/DevSecOps/tree/master/tools/k8s/1
 - Job
 - Secret
 
-https://github.com/uracilo/DevSecOps/tree/master/tools/k8s/2
+<a href="https://github.com/uracilo/DevSecOps/tree/master/tools/k8s/2" target="_blank">## Thirth parth</a>
 
-## Thirth parth
 - *Helm*
 - *Cluster Autoscaling*
 - Volumes
 - Init containers
 - GitÓps
 
-https://github.com/uracilo/DevSecOps/tree/master/tools/k8s/3
+<a href="https://github.com/uracilo/DevSecOps/tree/master/tools/k8s/3" target="_blank">## Fourth Components</a>
 
-## Fourth Components
 - *Virtual Protocol Autoscaling*  
 - *DemonSet*
 - Upgrade
 - Statefulset
 
-https://github.com/uracilo/DevSecOps/tree/master/tools/k8s/4
+<a href="https://github.com/uracilo/DevSecOps/tree/master/tools/k8s/4" target="_blank">## Fiveth Component</a>
 
-## Fiveth Component
 - *Service Mesh*
 - Network Policy
 - PodSecurityPolicy
 - NodeSecurityPolicy
 - PodDisruptionBudget
 
-https://github.com/uracilo/DevSecOps/tree/master/tools/k8s/5
+<a href="https://github.com/uracilo/DevSecOps/tree/master/tools/k8s/5" target="_blank">## Sith Component</a>
 
-## Sith Component
 - *RBAC Role Based Access Control*
 - CustomResourceDefinition CRD
 - Operators
 
-https://github.com/uracilo/DevSecOps/tree/master/tools/k8s/6
+<a href="https://github.com/uracilo/DevSecOps/tree/master/tools/k8s/6" target="_blank">## Seven Component</a>
 
-## Seven Component
 - Image Scanning
 - Mutating Webhooks
 - Node Hardening
 - Admission Controllers
 
-https://github.com/uracilo/DevSecOps/tree/master/tools/k8s/7
+<a href="https://github.com/uracilo/DevSecOps/tree/master/tools/k8s/7" target="_blank">## Eight Component</a>
 
-## Eight Component
 - Self-managed
 - CRI-O Container Runtime Interface
 - Bleeding-edge
