@@ -34,7 +34,7 @@ ______________________
 - Upgrade
 - Statefulset
 ______________________
-<a href="https://github.com/uracilo/DevSecOps/tree/master/tools/k8s/4" target="_blank">Fiveth Component</a>
+<a href="https://github.com/uracilo/DevSecOps/tree/master/tools/k8s/4" target="_blank">Fifth Component</a>
 
 - *Service Mesh*
 - Network Policy
@@ -42,20 +42,20 @@ ______________________
 - NodeSecurityPolicy
 - PodDisruptionBudget
 ______________________
-<a href="https://github.com/uracilo/DevSecOps/tree/master/tools/k8s/5" target="_blank">Sith Component</a>
+<a href="https://github.com/uracilo/DevSecOps/tree/master/tools/k8s/5" target="_blank">Sixth Component</a>
 
 - *RBAC Role Based Access Control*
 - CustomResourceDefinition CRD
 - Operators
 ______________________
-<a href="https://github.com/uracilo/DevSecOps/tree/master/tools/k8s/6" target="_blank">Seven Component</a>
+<a href="https://github.com/uracilo/DevSecOps/tree/master/tools/k8s/6" target="_blank">Seventh Component</a>
 
 - Image Scanning
 - Mutating Webhooks
 - Node Hardening
 - Admission Controllers
 ______________________
-<a href="https://github.com/uracilo/DevSecOps/tree/master/tools/k8s/7" target="_blank">Eight Component</a>
+<a href="https://github.com/uracilo/DevSecOps/tree/master/tools/k8s/7" target="_blank">Eighth Component</a>
 
 - Self-managed
 - CRI-O Container Runtime Interface
