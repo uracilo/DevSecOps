@@ -1,7 +1,7 @@
 # K8s
 
 
-<a href="# k8s " target="_blank">First components </a>
+<a href="# k8s " target="_blank">First Components </a>
 
 - Docker 
 - Deployment
@@ -9,9 +9,9 @@
 - Pods
 - Kubectl run nginx
 ______________________
-<a href="https://github.com/uracilo/DevSecOps/tree/master/tools/k8s/1" target="_blank">Second components</a>
+<a href="https://github.com/uracilo/DevSecOps/tree/master/tools/k8s/1" target="_blank">Second Components</a>
 
-- *HPA* 
+- *HPA Horizontal Pod Autoscalling* 
 - *Ingress*
 - *GKE Google Kubernetes Engine*
 - *ConfigMap*
@@ -19,7 +19,7 @@ ______________________
 - Job
 - Secret
 ______________________
-<a href="https://github.com/uracilo/DevSecOps/tree/master/tools/k8s/2" target="_blank">Thirth parth</a>
+<a href="https://github.com/uracilo/DevSecOps/tree/master/tools/k8s/2" target="_blank">Thirth Components</a>
 
 - *Helm*
 - *Cluster Autoscaling*
@@ -34,7 +34,7 @@ ______________________
 - Upgrade
 - Statefulset
 ______________________
-<a href="https://github.com/uracilo/DevSecOps/tree/master/tools/k8s/4" target="_blank">Fifth Component</a>
+<a href="https://github.com/uracilo/DevSecOps/tree/master/tools/k8s/4" target="_blank">Fifth Components</a>
 
 - *Service Mesh*
 - Network Policy
@@ -42,20 +42,20 @@ ______________________
 - NodeSecurityPolicy
 - PodDisruptionBudget
 ______________________
-<a href="https://github.com/uracilo/DevSecOps/tree/master/tools/k8s/5" target="_blank">Sixth Component</a>
+<a href="https://github.com/uracilo/DevSecOps/tree/master/tools/k8s/5" target="_blank">Sixth Components</a>
 
 - *RBAC Role Based Access Control*
 - CustomResourceDefinition CRD
 - Operators
 ______________________
-<a href="https://github.com/uracilo/DevSecOps/tree/master/tools/k8s/6" target="_blank">Seventh Component</a>
+<a href="https://github.com/uracilo/DevSecOps/tree/master/tools/k8s/6" target="_blank">Seventh Components</a>
 
 - Image Scanning
 - Mutating Webhooks
 - Node Hardening
 - Admission Controllers
 ______________________
-<a href="https://github.com/uracilo/DevSecOps/tree/master/tools/k8s/7" target="_blank">Eighth Component</a>
+<a href="https://github.com/uracilo/DevSecOps/tree/master/tools/k8s/7" target="_blank">Eighth Components</a>
 
 - Self-managed
 - CRI-O Container Runtime Interface
