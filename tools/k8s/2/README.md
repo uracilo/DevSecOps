@@ -1,5 +1,5 @@
 ## Second components
-- *HPA*
+- *HPA HorizontalPodAutoscaler*
 - *Ingress*
 - *GKE*
 - *ConfigMap*
