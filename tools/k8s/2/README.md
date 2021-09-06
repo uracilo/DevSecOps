@@ -23,7 +23,7 @@
 - peticion tipo http get 
 - check tcp port 
 
-<a href="https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale-walkthrough/" target="_blank">### HPA</a>
+<a href="https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale-walkthrough/" target="_blank">HPA</a>
 
 	- replicas iniciales
 	- recursos
