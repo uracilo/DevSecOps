@@ -61,5 +61,3 @@ ______________________
 - CRI-O Container Runtime Interface
 - Bleeding-edge
 - EndPointSlices
-
-https://github.com/uracilo/DevSecOps/tree/master/tools/k8s/8
