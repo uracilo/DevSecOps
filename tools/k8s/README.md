@@ -25,7 +25,7 @@ ______________________
 - *Cluster Autoscaling*
 - Volumes
 - Init containers
-- GitÓps
+- GitOps
 ______________________
 <a href="https://github.com/uracilo/DevSecOps/tree/master/tools/k8s/3" target="_blank">Fourth Components</a>
 
