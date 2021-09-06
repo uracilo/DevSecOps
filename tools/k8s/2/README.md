@@ -28,3 +28,7 @@
 	- replicas iniciales
 	- recursos
 	- average use
+	
+### Ingress
+
+proxy pass  a otros servicios
