@@ -68,8 +68,7 @@
 		- One load balancer 
 			- traefic
 			- nginx
-			- ALB ingress controller
-
+			- Application Load Balancer (ALB) ingress controller
 - Kubernetes for containerized app? 
 	- ECS
 	- Docker swarm
@@ -81,7 +80,6 @@
 	- fisical cluster 
 	- naming 
 	- Fisical separation
-	-   
 - resource limit
  	- resources
 - Readines liveness probess
