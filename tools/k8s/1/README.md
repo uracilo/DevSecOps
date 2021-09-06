@@ -32,7 +32,7 @@
 	- App security
 		- POD, namespace, node
 		- RBAC (Role-Based Access Control)
-		- IRSA (Roles for Service Accounts)
+		- IRSA (Roles for Service Accounts) https://www.eksworkshop.com/intermediate/230_logging/prereqs/
 		- 
 	- DevOps
 		- Authorization
