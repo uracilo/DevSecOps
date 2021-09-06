@@ -8,9 +8,9 @@
 - Kubectl run nginx
 
 ## Second components
-- *HPA
-- *Ingress
-- *GKE*
+- *HPA* 
+- *Ingress*
+- *GKE Google Kubernetes Engine*
 - *ConfigMap*
 - *Service*
 - Job
@@ -37,8 +37,8 @@
 - PodDisruptionBudget
 
 ## Sith Component
-- *RBAC*
-- CRD
+- *RBAC Role Based Access Control*
+- CustomResourceDefinition CRD
 - Operators
 
 ## Seven Component
@@ -49,6 +49,6 @@
 
 ## Eight Component
 - Self-managed
-- CRI-O
+- CRI-O Container Runtime Interface
 - Bleeding-edge
 - EndPointSlices
