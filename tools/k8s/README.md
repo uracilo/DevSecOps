@@ -9,7 +9,7 @@
 - Pods
 - Kubectl run nginx
 
-<a href="https://github.com/uracilo/DevSecOps/tree/master/tools/k8s/1" target="_blank">## Second components</a>
+<a href="https://github.com/uracilo/DevSecOps/tree/master/tools/k8s/1" target="_blank">Second components</a>
 
 - *HPA* 
 - *Ingress*
@@ -19,7 +19,7 @@
 - Job
 - Secret
 
-<a href="https://github.com/uracilo/DevSecOps/tree/master/tools/k8s/2" target="_blank">## Thirth parth</a>
+<a href="https://github.com/uracilo/DevSecOps/tree/master/tools/k8s/2" target="_blank">Thirth parth</a>
 
 - *Helm*
 - *Cluster Autoscaling*
@@ -27,14 +27,14 @@
 - Init containers
 - GitÓps
 
-<a href="https://github.com/uracilo/DevSecOps/tree/master/tools/k8s/3" target="_blank">## Fourth Components</a>
+<a href="https://github.com/uracilo/DevSecOps/tree/master/tools/k8s/3" target="_blank">Fourth Components</a>
 
 - *Virtual Protocol Autoscaling*  
 - *DemonSet*
 - Upgrade
 - Statefulset
 
-<a href="https://github.com/uracilo/DevSecOps/tree/master/tools/k8s/4" target="_blank">## Fiveth Component</a>
+<a href="https://github.com/uracilo/DevSecOps/tree/master/tools/k8s/4" target="_blank">Fiveth Component</a>
 
 - *Service Mesh*
 - Network Policy
@@ -42,20 +42,20 @@
 - NodeSecurityPolicy
 - PodDisruptionBudget
 
-<a href="https://github.com/uracilo/DevSecOps/tree/master/tools/k8s/5" target="_blank">## Sith Component</a>
+<a href="https://github.com/uracilo/DevSecOps/tree/master/tools/k8s/5" target="_blank">Sith Component</a>
 
 - *RBAC Role Based Access Control*
 - CustomResourceDefinition CRD
 - Operators
 
-<a href="https://github.com/uracilo/DevSecOps/tree/master/tools/k8s/6" target="_blank">## Seven Component</a>
+<a href="https://github.com/uracilo/DevSecOps/tree/master/tools/k8s/6" target="_blank">Seven Component</a>
 
 - Image Scanning
 - Mutating Webhooks
 - Node Hardening
 - Admission Controllers
 
-<a href="https://github.com/uracilo/DevSecOps/tree/master/tools/k8s/7" target="_blank">## Eight Component</a>
+<a href="https://github.com/uracilo/DevSecOps/tree/master/tools/k8s/7" target="_blank">Eight Component</a>
 
 - Self-managed
 - CRI-O Container Runtime Interface
