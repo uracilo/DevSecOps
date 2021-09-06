@@ -24,6 +24,7 @@
 - check tcp port 
 
 <a href="https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale-walkthrough/" target="_blank">### HPA</a>
+
 	- replicas iniciales
 	- recursos
 	- average use
