@@ -13,6 +13,7 @@ _________
 - secrets management 
   - Secure config files
   - Tokenize information
+  - Secure branches to prevent bad commits
 
 ### Build
 #### Pre- Build 
